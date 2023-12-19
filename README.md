@@ -1,5 +1,5 @@
 # NetTCR-IMMREP-2023
- This repository contains the models and predictions used for the NetTCR entries for the [IMMREP 2023 kaggle competition](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/overview).
+ This repository contains the models and predictions used for the NetTCR entries for the [IMMREP 2023 Kaggle competition](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/overview).
 
 ## Environment setup with conda
 First, ensure that miniconda/anaconda is installed (see `https://docs.conda.io/projects/miniconda/en/latest/` for more info).
