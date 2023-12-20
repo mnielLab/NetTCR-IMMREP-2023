@@ -16,3 +16,5 @@ For licence details refer to [***academic_software_license_agreement.pdf***](htt
 
 ## Citation
 Jensen, M. F., & Nielsen, M. (2023). NetTCR 2.2—Improved TCR specificity predictions by combining pan- and peptide-specific training strategies, loss-scaling and integration of sequence similarity. bioRxiv.  https://doi.org/10.1101/2023.10.12.562001
+
+Justin Barton. (2023). IMMREP23: TCR Specificity Prediction Challenge. Kaggle. https://kaggle.com/competitions/tcr-specificity-prediction-challenge
